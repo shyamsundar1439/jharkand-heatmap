@@ -1,0 +1,6 @@
+{
+  "name": "JanSetu",
+  "description": "AI-powered Societal Innovation Collaboration Platform connecting citizens, government, universities, and industry to turn local challenges into real solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
